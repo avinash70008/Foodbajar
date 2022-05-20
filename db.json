@@ -1,0 +1,113 @@
+{
+    "product": [
+        {
+            "id": "6286ae7b80902f973fcc179c",
+            "name": "Mutton Korma",
+            "prices": "300",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2015-03/badam-korma_625x350_41426244081.jpg",
+            "description": "A flavourful mutton curry, where the meat is stirred with curd, garlic-ginger paste, cloves, cardamom and cinnamon sticks."
+        },
+        {
+            "id": "6286ae7b80902f973fcc179d",
+            "name": "Pina Colada Pork Ribs",
+            "prices": "450",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2015-02/pork_625x350_81424765044.jpg",
+            "description": "The ingredients of the popular rum-based cocktail team up with pork ribs to create a lip-smacking treat. Pork is slow roasted to soak in the flavours, and the kick of ginger gives it an interesting edge."
+        },
+        {
+            "id": "6286ae7b80902f973fcc179e",
+            "name": "Tandoori Lamb Chops",
+            "prices": "280",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2016-06/lamb-chops_625x350_51466768845.jpg",
+            "description": "Lamb chops marinated in strained yogurt and flavoursome masalas. Cooked till tender, this dish is guaranteed to impress."
+        },
+        {
+            "id": "6286ae7b80902f973fcc179f",
+            "name": " Malabar Fish Biryani",
+            "prices": "150",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2016-11/biryani-620_620x350_41478678907.jpg",
+            "description": "This classic Malabar Fish Biryani can be devoured at all times. Enjoy the delicious taste of this ever-charming dish."
+        }, {
+            "id": "6286ae7b80902f973fcc17a0",
+            "name": "Keema Samosa with Yoghurt Dip",
+            "prices": "100",
+            "category": "veg",
+            "image": "https://i.ndtvimg.com/i/2017-01/samosa_620x350_81485494818.jpg",
+            "description": "Make this ultimate Punjabi snack from scratch. Dough pockets stuffed with keema masala mixture, fried golden and served with a refreshing hung curd dip."
+        }, {
+            "id": "6286ae7b80902f973fcc17a1",
+            "name": "Curried Parmesan Fish Fingers",
+            "prices": "280",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2016-03/fish-finger_625x350_51458388088.jpg",
+            "description": "Tender fish pieces are cut into pieces, wrapped in batter and fried to perfection. Team this with ketchup, mayo or mustard sauce and you're sorted for the evening."
+        }, {
+            "id": "6286ae7b80902f973fcc17a2",
+            "name": "Chicken 65",
+            "prices": "270",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2015-07/chicken-65_625x350_61436162562.jpg",
+            "description": "Chicken 65 is said to have originated in Madras (Chennai). This delicious, deep-fried recipe of Chicken 65 is from the house of Tamil Nadu. A popular and easy-to-make snack recipe, fried, full of spice with the flavours of ginger, garlic and chillies."
+        }, {
+            "id": "6286ae7b80902f973fcc17a3",
+            "name": "Goan Prawn Curry With Raw Mango",
+            "prices": "450",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2016-06/prawn-curry-625_625x350_51467122026.jpg",
+            "description": "Luscious prawns bathed in a burst of flavours to cook up a brilliant Goan delicacy, enjoy! A perfect seafood, winter recipe that you can pair with rice. "
+        }, {
+            "id": "6286ae7b80902f973fcc17a4",
+            "name": "Nihari Gosht",
+            "prices": "400",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2015-09/nihari_625x350_41443159772.jpg",
+            "description": "A traditional Muslim dish, where the meat almost blends with the gravy. Nihari traditionally means a slow cooked mutton stew, which is said o be originated in the Awadhi kitchen of Lucknow. A popular dish in Pakistan and Bangladesh, Nihari is also considered to be the national dish of Pakistan. The hint of rose water gives this a perfect finish."
+        }, {
+            "id": "6286ae7b80902f973fcc17a5",
+            "name": "Butter Chicken",
+            "prices": "200",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2018-01/butter-chicken_620x350_51517373579.jpg",
+            "description": "Keeping the classic at the last! Butter chicken is one-of-a-kind recipe that's been passed down from one generation to another and holds a permanent spot on India's menu. This recipe of Butter Chicken from Moti Mahal is easy to follow and makes for an instant conversation-starter!"
+        }, {
+            "id": "6286ae7b80902f973fcc17a6",
+            "name": "Hyderabadi Chicken Fry",
+            "prices": "500",
+            "category": "nonveg",
+            "image": "https://i.ndtvimg.com/i/2018-01/fried-chicken_696x400_51514877919.jpg",
+            "description": "The Hyderabadi chicken fry is the perfect appetizer for impromptu guest gatherings or any special occasion – It has a fairly simple recipe but will give you an immensely juicy and flavorful chicken dish."
+        }, {
+            "id": "6286ae7b80902f973fcc17a7",
+            "name": "Hyderabadi Keema",
+            "prices": "300",
+            "category": "nonveg",
+            "image": "https://c.ndtvimg.com/2019-12/o1l745m8_keema-matar_625x300_11_December_19.jpg",
+            "description": "This Hyderabadi mutton keema recipe accentuates the taste of keema and makes a mouth-watering masaledaar dish. It would taste great with some rotis or pair it with some tandoori naan."
+        }, {
+            "id": "6286ae7b80902f973fcc17a8",
+            "name": "Caponata pasta",
+            "prices": "180",
+            "category": "veg",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/caponata-pasta-a0027c4.jpg?quality=90&webp=true&resize=300,272",
+            "description": "Whip up our easy vegetarian caponata pasta in just 20 minutes. It's simple to make, budget-friendly and packs three of your five-a-day into one delicious meal"
+        }, {
+            "id": "6286ae7b80902f973fcc17a9",
+            "name": "Spanish potatoes",
+            "prices": "100",
+            "category": "veg",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-488484_11-ecf4ff0.jpg?quality=90&webp=true&resize=300,272",
+            "description": "These smoky, spiced potatoes are a great accompaniment for white fish or chicken"
+        }, {
+            "id": "6286ae7b80902f973fcc17aa",
+            "name": "Oven-baked rösti cake",
+            "prices": "300",
+            "category": "nonveg",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1079521_10-d837715.jpg?quality=90&webp=true&resize=300,272",
+            "description": "Grate potatoes into a hash brown-style patty and cook in the oven for a convenient and tasty side dish"
+        }
+    ]
+}
